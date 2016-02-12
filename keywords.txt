@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map HC-06
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+HC06	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+isConnected	KEYWORD2
+setName		KEYWORD2
+setPassword	KEYWORD2
+setBaudrate	KEYWORD2
+reset	KEYWORD2
+hardReset 	KEYWORD2
+available	KEYWORD2
+read		KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
